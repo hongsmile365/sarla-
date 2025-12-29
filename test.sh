@@ -1,0 +1,1 @@
+python tracking/test.py sarla ep50 --dataset cmuot  --thread 0 --num_gpus 1 --visible_cuda 1

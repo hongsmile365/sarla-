@@ -2,7 +2,7 @@
 
 ## Cross Modal UAV Object Tracking
 
-![cross_modal](./pic/cross_modal.gif。
+![cross_modal](./pic/cross_modal.gif)
 
 
 ## Install the environment
